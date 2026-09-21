@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "repository": "linhongyuayu/CMMODE",
+  "base_branch": "main",
+  "base_sha": "a0d844280ae71cf9677ddb8057b93d682ce334f9",
+  "generated_date": "2026-09-21",
+  "scope": "Complete file-member inventory of the preserved original ZIP archives; directory entries excluded.",
+  "source_copy_contract": "source_path files are byte-for-byte browsing copies of .py/.m members. Original ZIPs remain the frozen source artifacts. No runtime or scientific validation is implied.",
+  "archives": [
+    {
+      "archive": "CMMF.zip",
+      "git_blob_sha": "5ce40e3708258b0e11bf0a42e5659a5eb1777373",
+      "sha256": "a0cfb26da4fad304c37d2e3cdee2b94541d7a770b780e11fd30d7af104a8c0e7",
+      "members_count": 34,
+      "members": [
+        {
+          "path": "CMMF1.m",
+          "size": 3761,
+          "sha256": "790f05cb46a9b6981241ceb95bb04b10afe1544234943c2952972a851656431b",
+          "source_path": "source/CMMF/CMMF1.m"
+        },
+        {
+          "path": "CMMF10.m",
+          "size": 3672,
+          "sha256": "e49595ead6944dfebc0de42900a47a6df367890a19f4de15e2181517cf80680a",
+          "source_path": "source/CMMF/CMMF10.m"
+        },
+        {
+          "path": "CMMF11.m",
+          "size": 3074,
+          "sha256": "b7d8b99b09961d13cbfe4c62061a64c03bcf388882296b52b1262f6a16d1766e",
+          "source_path": "source/CMMF/CMMF11.m"
+        },
+        {
+          "path": "CMMF12.m",
+          "size": 2560,
+          "sha256": "71936e17c02232e244a10de982f5b191dbf4a4ee2a35f414c971dfd2fc3c3380",
+          "source_path": "source/CMMF/CMMF12.m"
+        },
+        {
+          "path": "CMMF13.m",
+          "size": 3398,
+          "sha256": "74748fb725284f3e2e897e0eafd69fe1ed12870c70166094eb1f930c140fd3ae",
+          "source_path": "source/CMMF/CMMF13.m"
+        },
+        {
+          "path": "CMMF14.m",
+          "size": 1763,
+          "sha256": "b7e1467b17006d310bcb0269b188cbac65959fa4850ecb96743ddeb6b9035499",
+          "source_path": "source/CMMF/CMMF14.m"
+        },
+        {
+          "path": "CMMF15.m",
+          "size": 2424,
+          "sha256": "546fa9a35fe5a612b7b91f2884fbb4bf33877c15e7dd7c619e2e08c3d850fb5e",
+          "source_path": "source/CMMF/CMMF15.m"
+        },
+        {
+          "path": "CMMF16.m",
+          "size": 3271,
+          "sha256": "90ca8fc70da00989d890234a9abb52192831ef723ba0d5b053b5f27c109ddeb7",
+          "source_path": "source/CMMF/CMMF16.m"
+        },
+        {
+          "path": "CMMF17.m",
+          "size": 3555,
+          "sha256": "0edbd42f1d341a97835a194829a7a1445e4e4613e31a19fe32bf51672f625847",
+          "source_path": "source/CMMF/CMMF17.m"
+        },
+        {
+          "path": "CMMF2.m",
+          "size": 2163,
+          "sha256": "54d0e9030207358fa159eb8fb02cda46ec3c5196357e5470027f2b7f1c98fcce",
+          "source_path": "source/CMMF/CMMF2.m"
+        },
+        {
+          "path": "CMMF3.m",
+          "size": 2896,
+          "sha256": "5392f65375ca9e21ae6a6025c364aa452294ea50ef1c1efe1f0af6b4f8191a4b",
+          "source_path": "source/CMMF/CMMF3.m"
+        },
+        {
+          "path": "CMMF4.m",
+          "size": 1985,
+          "sha256": "b4e18c464dd376ce7878268f4799e8ab8080f1ed44b23c31312916f6a577bc0a",
+          "source_path": "source/CMMF/CMMF4.m"
+        },
+        {
+          "path": "CMMF5.m",
+          "size": 3133,
+          "sha256": "06fc45a79660e0ef304e5acfb9a2a2fc1b14b513e55695b607cc01a740f433fb",
+          "source_path": "source/CMMF/CMMF5.m"
+        },
+        {
+          "path": "CMMF6.m",
+          "size": 1828,
+          "sha256": "a1d844541faf48b70631c73ee369cfc5ecb39df9d8ff44bf1b5c38a49998e1ab",
+          "source_path": "source/CMMF/CMMF6.m"
+        },
+        {
+          "path": "CMMF7.m",
+          "size": 2062,
+          "sha256": "7e6a42f9be39a333d6742cce8ca9cd37f9c638a3bd7f30b2884cac150a7ce39e",
+          "source_path": "source/CMMF/CMMF7.m"
+        },
+        {
+          "path": "CMMF8.m",
+          "size": 1901,
+          "sha256": "ced80005443f16f73ad92ba5c5836fa5a181ce00337827e5880eaff71c8df87c",
+          "source_path": "source/CMMF/CMMF8.m"
+        },
+        {
+          "path": "CMMF9.m",
+          "size": 2383,
+          "sha256": "134580974e9c2672efe59bf6dfca993c66fdb3d935182ee24bb2e70799547c27",
+          "source_path": "source/CMMF/CMMF9.m"
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF10_Reference_PSPF_data.mat",
+          "size": 31407,
+          "sha256": "5f93be3a837d7b4ad4eef55cc684afae597b1140eab8dfea2b0387dff6cfcd86",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF11_Reference_PSPF_data.mat",
+          "size": 40767,
+          "sha256": "360c74725674fad8168051a637d6d1675ccf66d5dd4a0daa7c8d6d477792dda0",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF12_Reference_PSPF_data.mat",
+          "size": 71285,
+          "sha256": "2063d5250d77e0fbad5a1d9c2804fee569e58114c973944651ae029d67890f77",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF13_Reference_PSPF_data.mat",
+          "size": 75761,
+          "sha256": "9fc961c21097ef518f2399caab117c55fb24d96fbce01c2bf4cb17492d8c4a1c",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF14_Reference_PSPF_data.mat",
+          "size": 86783,
+          "sha256": "0c8109fc5fd8b5cd5e76ef6fc637b2727f502a419cedb6b11bd2e46a2346977f",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF15_Reference_PSPF_data.mat",
+          "size": 87018,
+          "sha256": "d2fbbf3f390e345f26acf6ac8bf1b3f5b368ca8ea65797d75916c1b1d7c8df39",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF16_Reference_PSPF_data.mat",
+          "size": 87429,
+          "sha256": "732f275d320eefa9863ee031232e7c6bef3fd1ce831510fd454d44c5644ce363",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF17_Reference_PSPF_data.mat",
+          "size": 84448,
+          "sha256": "6c2a4ef07df8b8bcf58bb1f56785374cb0e1059cdcaafd9be486f50ed4391feb",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF1_Reference_PSPF_data.mat",
+          "size": 39429,
+          "sha256": "4a47d4dfffdb2ccc57adc697edb59e9c21d7ce962a840e807029c30fbd8b50da",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF2_Reference_PSPF_data.mat",
+          "size": 40177,
+          "sha256": "6193a72b1fc41de2870b74bcd0e1823d2b4a1c508920d5194a62be0abd0b27e2",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF3_Reference_PSPF_data.mat",
+          "size": 29465,
+          "sha256": "9664f02efacf94a3a12dd14938afb8d45455dc2c82c94a5c4012c5a29c196e7f",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF4_Reference_PSPF_data.mat",
+          "size": 39787,
+          "sha256": "83322242d2dd62954ece420fb5c56647faf90e22c6345908e9538d3af7b06275",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF5_Reference_PSPF_data.mat",
+          "size": 36385,
+          "sha256": "e99a03bf6349903bc0ba044fc531d7e00e938c620d8f64104660e7dbf5868364",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF6_Reference_PSPF_data.mat",
+          "size": 74036,
+          "sha256": "89b1ef022259a943a10363a5a2d8b84760d96ec7b471465568b5d40bdd9d463b",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF7_Reference_PSPF_data.mat",
+          "size": 40172,
+          "sha256": "2dbac21c3ca881a173e45502179bc63afea6018e3a7f04233e2fcdde56d46b0d",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF8_Reference_PSPF_data.mat",
+          "size": 43557,
+          "sha256": "dc38490adc1f60fcaa449d9b03cbbedfa6ee18ad3ea6b006122ee656ff91880b",
+          "source_path": null
+        },
+        {
+          "path": "Reference_PSPF_data/CMMF9_Reference_PSPF_data.mat",
+          "size": 43467,
+          "sha256": "9541c2788638d16d2c2f5540d64731b049bb4fb759d4b33d6452cbec9eb4cd38",
+          "source_path": null
+        }
+      ]
+    },
+    {
+      "archive": "CMMODE.zip",
+      "git_blob_sha": "2ab54d128fb0256120d0c2bb08a3f3d1549c1213",
+      "sha256": "105515fec807bab4bfe6787e627457c75886051376cba028f8023d226d327dfd",
+      "members_count": 19,
+      "members": [
+        {
+          "path": "CalFitness.m",
+          "size": 3522,
+          "sha256": "1f1c83d54e9eec630d8a8257281cb23e34471c18aa690b4d6cb453b3e78b6320",
+          "source_path": "source/CMMODE/CalFitness.m"
+        },
+        {
+          "path": "CMMODE.m",
+          "size": 6923,
+          "sha256": "b0b8ce6b449104bc7df360acb83478b72a19cbaecb7a6064f4fcbcd07f702d38",
+          "source_path": "source/CMMODE/CMMODE.m"
+        },
+        {
+          "path": "EnvironmentalSelection.m",
+          "size": 2443,
+          "sha256": "b586aad39e1da7ef623c5ce74aea235b8774ed666ab1dad6133629860a17ce61",
+          "source_path": "source/CMMODE/EnvironmentalSelection.m"
+        },
+        {
+          "path": "Indicator/CR_calculation.m",
+          "size": 1395,
+          "sha256": "859a755c40ad218c3b34afbe52840db71ff5adaa0151642b2eb0104638e60973",
+          "source_path": "source/CMMODE/Indicator/CR_calculation.m"
+        },
+        {
+          "path": "Indicator/CRPSP_calculation.m",
+          "size": 2781,
+          "sha256": "5fbb706f3e3dc642624e3e69150585dd795e00c8c6daed920facd37cfe154050",
+          "source_path": "source/CMMODE/Indicator/CRPSP_calculation.m"
+        },
+        {
+          "path": "Indicator/cv_calculation.m",
+          "size": 94,
+          "sha256": "23a861f69b25e88533369e4d5d9d70079d6055f0809c60546194f4f4d6ad20ed",
+          "source_path": "source/CMMODE/Indicator/cv_calculation.m"
+        },
+        {
+          "path": "Indicator/Hypervolume_calculation.m",
+          "size": 918,
+          "sha256": "a325a25b50513ac5da16b12c450566d034611b4ef4d761e6ba13fcf3b5874baf",
+          "source_path": "source/CMMODE/Indicator/Hypervolume_calculation.m"
+        },
+        {
+          "path": "Indicator/IGD_calculation.m",
+          "size": 1021,
+          "sha256": "79e70385069bf1b8ecb146af1000d8fd66fdbb5eb8ad9d6f4625d756b8bb34a6",
+          "source_path": "source/CMMODE/Indicator/IGD_calculation.m"
+        },
+        {
+          "path": "Indicator/Indicator_calculation.m",
+          "size": 5457,
+          "sha256": "01383b84b4bcea1bd93e1299905ac014a3782809f3d606df1418fe7f97d21c6c",
+          "source_path": "source/CMMODE/Indicator/Indicator_calculation.m"
+        },
+        {
+          "path": "Location_Selection_problem/CMMFtest3.m",
+          "size": 5081,
+          "sha256": "8872159fa53083016cd6b34e5d78beb81f754f3425a87d759a296cdeeffbf8c4",
+          "source_path": "source/CMMODE/Location_Selection_problem/CMMFtest3.m"
+        },
+        {
+          "path": "Location_Selection_problem/CMMFtest3_Reference_PSPF_data.mat",
+          "size": 107499,
+          "sha256": "e9a2ea048059ff8d91169c42a433f1e7e4b29c3d2f8be7d5c8a8827537cd5a9d",
+          "source_path": null
+        },
+        {
+          "path": "Location_Selection_problem/CMMFtest3Choosen_CMMODE.mat",
+          "size": 7658,
+          "sha256": "1bda02d08f0d2af67b8ba0ba16f8aedd70bed98efc729a326509b2cfbe1f44f2",
+          "source_path": null
+        },
+        {
+          "path": "Location_Selection_problem/CMMFtest3ChoosenPSPFdata.mat",
+          "size": 2699,
+          "sha256": "a4108f8292376e97647d303d64399ae5108a242a457d2f79ca082349f989a683",
+          "source_path": null
+        },
+        {
+          "path": "Location_Selection_problem/distance2curve.m",
+          "size": 52795,
+          "sha256": "1e23eb70c19b58702e19c6832f15310ef1ed84153be9586d7c1661d138747a5a",
+          "source_path": "source/CMMODE/Location_Selection_problem/distance2curve.m"
+        },
+        {
+          "path": "Location_Selection_problem/landscape_CMMFtest3.m",
+          "size": 1774,
+          "sha256": "f0c5f06dfcafd7608a9a2baac384535fe46b21da3cc49b0a32224fef3c517258",
+          "source_path": "source/CMMODE/Location_Selection_problem/landscape_CMMFtest3.m"
+        },
+        {
+          "path": "Location_Selection_problem/main_CMMFtest3_CMMODE.m",
+          "size": 3487,
+          "sha256": "6b12d9b29b44468bc11a9569ecc0f7dd1c5d310da39a31b0baafb15d931a3789",
+          "source_path": "source/CMMODE/Location_Selection_problem/main_CMMFtest3_CMMODE.m"
+        },
+        {
+          "path": "Location_Selection_problem/Pop_best_con.mat",
+          "size": 6752781,
+          "sha256": "32eedc1ba9e5396cf4f78e0d643f96bc019f58316d2675811a9022f5b94253d4",
+          "source_path": null
+        },
+        {
+          "path": "main_CMMODE.m",
+          "size": 9047,
+          "sha256": "f7c9eb571d76416b9f0da7dd6019f310fb9ccf5fd568768a5a56780f3383e13c",
+          "source_path": "source/CMMODE/main_CMMODE.m"
+        },
+        {
+          "path": "NDSort.m",
+          "size": 1379,
+          "sha256": "93b0a2da3a3e435fe26f1ef2efec430645d721127bdd5283ca91ff999f955010",
+          "source_path": "source/CMMODE/NDSort.m"
+        }
+      ]
+    }
+  ]
+}

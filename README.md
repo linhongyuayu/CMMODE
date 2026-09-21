@@ -10,11 +10,12 @@ Materials for Multiobjective Differential Evolution with Speciation for Constrai
 | [CMMF.zip](CMMF.zip) | CMMF archive |
 | [Multiobjective Differential Evolution with Speciation for Constrained Multimodal Multiovjective Optimization.pdf](Multiobjective%20Differential%20Evolution%20with%20Speciation%20for%20Constrained%20Multimodal%20Multiovjective%20Optimization.pdf) | Paper PDF |
 
-## Reading the materials
+## Browsable source and complete member index
 
-This page indexes the files currently stored in the repository. The archive inventory and selected entry points are described below; runtime dependencies remain unverified. GitHub file search does not search inside ZIP archives; consult the archive contents and accompanying documents before running code.
+- [source/](source/): source browsing copies under `source/<archive-stem>/<original-member-path>`.
+- [Complete member index](ARCHIVE_INDEX.md) / [JSON index](ARCHIVE_INDEX.json): all 53 archive members, their sizes and SHA256 hashes, including links to 32 source copies.
 
-The original packages and documents remain the source materials. If browsable source files are added later, identify the archive version they came from.
+The original ZIPs are frozen artifacts; `source/` copies preserve the exact member bytes. Running the code still requires the matching archive data, working directory and dependencies; standalone execution has not been verified.
 
 ## Archive layout inspected on 2026-09-15
 
@@ -27,4 +28,4 @@ The archive directories and selected entry-point text were inspected without exe
 
 `main_CMMODE.m` adds `CMMF/` and `Indicator_calculation/` to the MATLAB path. The uploaded algorithm archive instead contains `Indicator/`, while the CMMF functions are in the separate CMMF archive. Resolve this directory layout before running the entry point; this index does not certify the runtime setup or results.
 
-The original archives and reference data are retained. Paths above are inside the archives, not loose files at the repository root.
+The table uses archive-relative paths; source copies are under `source/<archive-stem>/`.
