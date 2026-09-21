@@ -7,7 +7,7 @@ CMMODE.zip,archive-package,tracked-version; authority requires project record,67
 FILEMAP.csv,navigation-index,generated-catalog,,,self-index; verified as Git object; hash excluded to avoid recursion
 FILEMAP.md,navigation-index,generated-catalog,,,self-index; verified as Git object; hash excluded to avoid recursion
 Multiobjective Differential Evolution with Speciation for Constrained Multimodal Multiovjective Optimization.pdf,paper-or-document,tracked-version; authority requires project record,6191554,4583143fda24bd25a139b45b7fdf1f8a1257aa2a,git-blob-bytes-match
-README.md,documentation,tracked-version; authority requires project record,2918,1d37c609881153e0cf031b1795705816f318f147,reviewed-change
+README.md,documentation,tracked-version; authority requires project record,3274,0d94b3b6a2ac19c3e89d5f5dba17fcf01028aab7,reviewed-change; solver-policy-documentation-only
 source/CMMF/CMMF1.m,source-code,archive-browsing-copy,3761,2ed410bba4db8f61cbbae9d05d8bb2d841c26047,git-blob-bytes-match
 source/CMMF/CMMF10.m,source-code,archive-browsing-copy,3672,22651b357932d8f1e348b823577f5b3ded1889fd,git-blob-bytes-match
 source/CMMF/CMMF11.m,source-code,archive-browsing-copy,3074,11edfdae4e9f5309ca18cc90017e748df4f60135,git-blob-bytes-match
