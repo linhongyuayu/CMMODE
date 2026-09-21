@@ -1,0 +1,42 @@
+path,category,scope,bytes,git_blob_sha,checks
+.gitattributes,configuration-or-structured-data,tracked-version; authority requires project record,66,dfe0770424b2a19faf507a501ebfc23be8f54e7b,git-blob-bytes-match
+ARCHIVE_INDEX.json,configuration-or-structured-data,tracked-version; authority requires project record,13327,eb9e2ab14bb12aac98b22e83be0429a5a5df9c57,git-blob-bytes-match; json-parse-pass
+ARCHIVE_INDEX.md,documentation,tracked-version; authority requires project record,8501,4e759a912ef012cecdb26911e3333af12b0114b8,git-blob-bytes-match
+CMMF.zip,archive-package,tracked-version; authority requires project record,967751,5ce40e3708258b0e11bf0a42e5659a5eb1777373,git-blob-bytes-match; zip-crc-all-members-pass
+CMMODE.zip,archive-package,tracked-version; authority requires project record,6702890,2ab54d128fb0256120d0c2bb08a3f3d1549c1213,git-blob-bytes-match; zip-crc-all-members-pass
+FILEMAP.csv,navigation-index,generated-catalog,,,self-index; verified as Git object; hash excluded to avoid recursion
+FILEMAP.md,navigation-index,generated-catalog,,,self-index; verified as Git object; hash excluded to avoid recursion
+Multiobjective Differential Evolution with Speciation for Constrained Multimodal Multiovjective Optimization.pdf,paper-or-document,tracked-version; authority requires project record,6191554,4583143fda24bd25a139b45b7fdf1f8a1257aa2a,git-blob-bytes-match
+README.md,documentation,tracked-version; authority requires project record,2918,1d37c609881153e0cf031b1795705816f318f147,reviewed-change
+source/CMMF/CMMF1.m,source-code,archive-browsing-copy,3761,2ed410bba4db8f61cbbae9d05d8bb2d841c26047,git-blob-bytes-match
+source/CMMF/CMMF10.m,source-code,archive-browsing-copy,3672,22651b357932d8f1e348b823577f5b3ded1889fd,git-blob-bytes-match
+source/CMMF/CMMF11.m,source-code,archive-browsing-copy,3074,11edfdae4e9f5309ca18cc90017e748df4f60135,git-blob-bytes-match
+source/CMMF/CMMF12.m,source-code,archive-browsing-copy,2560,454b4cecc355e74348e2701dd105124a961aa952,git-blob-bytes-match
+source/CMMF/CMMF13.m,source-code,archive-browsing-copy,3398,74954b47ace1d2ee6b86405c779a6b6e3a730ee6,git-blob-bytes-match
+source/CMMF/CMMF14.m,source-code,archive-browsing-copy,1763,002a6c0b12f800da658e46e87eb1c16f19a3f6ae,git-blob-bytes-match
+source/CMMF/CMMF15.m,source-code,archive-browsing-copy,2424,1dce1f5a807439f8fadf599844f104561759a31a,git-blob-bytes-match
+source/CMMF/CMMF16.m,source-code,archive-browsing-copy,3271,eac7d8447762a6ca998d668838d7983bf8b7e1ad,git-blob-bytes-match
+source/CMMF/CMMF17.m,source-code,archive-browsing-copy,3555,4c924798fb98026eb63574b870631c2c2a5f6efc,git-blob-bytes-match
+source/CMMF/CMMF2.m,source-code,archive-browsing-copy,2163,f41f739f887b980bf5b60338abb4bb780d0c794b,git-blob-bytes-match
+source/CMMF/CMMF3.m,source-code,archive-browsing-copy,2896,7482fe08318d2b02088bf03e638230f0f070b8cb,git-blob-bytes-match
+source/CMMF/CMMF4.m,source-code,archive-browsing-copy,1985,c9c2b4bc91586aee285a5e5dbfda09e28b4c4938,git-blob-bytes-match
+source/CMMF/CMMF5.m,source-code,archive-browsing-copy,3133,9a1386278c27b6b191dca6908fa6b750692baaa5,git-blob-bytes-match
+source/CMMF/CMMF6.m,source-code,archive-browsing-copy,1828,cc7eefb8783a9e8c5ee8f830555e42750708c588,git-blob-bytes-match
+source/CMMF/CMMF7.m,source-code,archive-browsing-copy,2062,6c3005a46dadd6b6546c75aee783a92b363e81c3,git-blob-bytes-match
+source/CMMF/CMMF8.m,source-code,archive-browsing-copy,1901,e00c99f84d993bcd1f3582cb316fccbbcd7adeec,git-blob-bytes-match
+source/CMMF/CMMF9.m,source-code,archive-browsing-copy,2383,eef7551bab6a99892582561c9d6e93a150b7592a,git-blob-bytes-match
+source/CMMODE/CMMODE.m,source-code,archive-browsing-copy,6923,e38581d2e59c1919382d70ee75141cbe1820c278,git-blob-bytes-match
+source/CMMODE/CalFitness.m,source-code,archive-browsing-copy,3522,f8c94aa743de432fbc6544824a6b9625d1ac6ef8,git-blob-bytes-match
+source/CMMODE/EnvironmentalSelection.m,source-code,archive-browsing-copy,2443,5544056a872b2af8fb0e0d96fd03958d3643e89e,git-blob-bytes-match
+source/CMMODE/Indicator/CRPSP_calculation.m,source-code,archive-browsing-copy,2781,23e7cc6168ceba7c74b2a05ffb8509aeced72300,git-blob-bytes-match
+source/CMMODE/Indicator/CR_calculation.m,source-code,archive-browsing-copy,1395,240543ba409f71d5d0f07c6a3b855d9f8a10f1e4,git-blob-bytes-match
+source/CMMODE/Indicator/Hypervolume_calculation.m,source-code,archive-browsing-copy,918,4b5221cb57364c5d28c52409fe5bfa6fc364a987,git-blob-bytes-match
+source/CMMODE/Indicator/IGD_calculation.m,source-code,archive-browsing-copy,1021,949ba62938d43faf6b6a59d826ebc8a7fd79a138,git-blob-bytes-match
+source/CMMODE/Indicator/Indicator_calculation.m,source-code,archive-browsing-copy,5457,64c7c2a7bb8f2865910feba11f1861b86d54ab37,git-blob-bytes-match
+source/CMMODE/Indicator/cv_calculation.m,source-code,archive-browsing-copy,94,973da2e05915a6fce00b3cb9d3a45f21fb925e26,git-blob-bytes-match
+source/CMMODE/Location_Selection_problem/CMMFtest3.m,source-code,archive-browsing-copy,5081,60bb8bca0950c9f9931d3c555e2f986cfd3f8942,git-blob-bytes-match
+source/CMMODE/Location_Selection_problem/distance2curve.m,source-code,archive-browsing-copy,52795,7e7c8573888c5e1f49064d62ab904aa0ea307dfb,git-blob-bytes-match
+source/CMMODE/Location_Selection_problem/landscape_CMMFtest3.m,source-code,archive-browsing-copy,1774,ad295eb8a0325b1bec18c7c7bf66313bb6b7cd02,git-blob-bytes-match
+source/CMMODE/Location_Selection_problem/main_CMMFtest3_CMMODE.m,source-code,archive-browsing-copy,3487,ca96e4e01923ff9ac6b268ef7f006500cc3d497c,git-blob-bytes-match
+source/CMMODE/NDSort.m,source-code,archive-browsing-copy,1379,4a5d62c6d2b169bc3c8c153fbdb0346d25188ae5,git-blob-bytes-match
+source/CMMODE/main_CMMODE.m,source-code,archive-browsing-copy,9047,eb5573715f7eb582d82df9627f5ca89960461cff,git-blob-bytes-match

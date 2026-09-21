@@ -1,5 +1,7 @@
 # CMMODE
 
+**[逐文件路径与分类](FILEMAP.md) · [机器可读清单](FILEMAP.csv)**
+
 Materials for Multiobjective Differential Evolution with Speciation for Constrained Multimodal Multiobjective Optimization.
 
 ## Files
@@ -17,15 +19,18 @@ Materials for Multiobjective Differential Evolution with Speciation for Constrai
 
 The original ZIPs are frozen artifacts; `source/` copies preserve the exact member bytes. Running the code still requires the matching archive data, working directory and dependencies; standalone execution has not been verified.
 
-## Archive layout inspected on 2026-09-15
+## Directory roles and preparation limits (2026-09-21)
 
-The archive directories and selected entry-point text were inspected without executing MATLAB:
+| Location | Role |
+|---|---|
+| [source/CMMODE/](source/CMMODE/) | Algorithm, selection operators and [main_CMMODE.m](source/CMMODE/main_CMMODE.m) browsing copies |
+| [source/CMMODE/Indicator/](source/CMMODE/Indicator/) | Metric functions and historical result aggregation scripts |
+| [source/CMMODE/Location_Selection_problem/](source/CMMODE/Location_Selection_problem/) | Separate location-selection example and its helper functions |
+| [source/CMMF/](source/CMMF/) | 17 benchmark functions; their 17 reference MAT files remain in `CMMF.zip/Reference_PSPF_data/` |
+| ZIP files / paper PDF | Frozen source/data releases and publication material |
 
-| Archive | Internal files | Entry points / contents |
-|---|---:|---|
-| `CMMODE.zip` | 19 | `main_CMMODE.m` calls `CMMODE.m`; 15 MATLAB source files and 4 MAT files |
-| `CMMF.zip` | 34 | `CMMF1.m` and related functions; 17 MATLAB source files and 17 reference MAT files |
+For a future run, prepare a separate working copy from both ZIPs. The benchmark script needs the actual `CMMF` function directory, its `Reference_PSPF_data` directory, and the algorithm archive's `Indicator` directory on the MATLAB path. The script's `Indicator_calculation/` name does not match the uploaded `Indicator/` directory (`main_CMMODE.m:2–3`); reference data is loaded by bare filename at lines 135–136. The `source/` browsing tree omits MAT data, so adding only its source directories is insufficient.
 
-`main_CMMODE.m` adds `CMMF/` and `Indicator_calculation/` to the MATLAB path. The uploaded algorithm archive instead contains `Indicator/`, while the CMMF functions are in the separate CMMF archive. Resolve this directory layout before running the entry point; this index does not certify the runtime setup or results.
+The location-selection script is a separate example: `Location_Selection_problem/main_CMMFtest3_CMMODE.m:4–6,74` retains machine-specific input/output paths that need explicit adaptation in a working copy. Do not treat its configuration as the benchmark setup.
 
-The table uses archive-relative paths; source copies are under `source/<archive-stem>/`.
+All 53 ZIP members passed CRC/path/index-hash checks; the 32 committed source copies match their original member bytes. MATLAB execution, toolbox compatibility and scientific results were not tested. The repository is a frozen research release, not a live experiment log.
